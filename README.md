@@ -1,3 +1,9 @@
+（1）cmd命令行先指向projects路径下运行：npm run draw 生成dist目录
+（2）cmd命令行指向dist/draw路径下运行：npm pack生成draw.0.0.1.tgz压缩包
+（3）将压缩包放到其他项目下运行npm install draw.0.0.1.tgz
+
+本项目并没将以下依赖同时打包，所以不会出现重复npm i的问题。用户需要自行安装以下依赖项。
+
 功能已经实现，也测试过了，样式还没调整！
 
 声 明： 本组件基于mapbox
