@@ -1,3 +1,7 @@
+github 地址：https://github.com/Userluckytian/mapbox-drawTools-Demo-library
+
+版本迭代信息见git仓库里的Change.md文件
+
 1、项目下运行npm install mapbox-drawtools
 
 2、本项目并没将以下依赖同时打包，所以不会出现重复npm i的问题。用户需要自行安装以下依赖项。
@@ -14,7 +18,7 @@
             （3）npm i mapbox-gl-draw-rectangle-mode
 
         2、引入： 在需要的模块中引入：
-                 import { DrawModule } from 'draw';
+                 import { DrawModule } from 'mapbox-drawtools';
                  @NgModule({
                     imports: [..., DrawModule],
                     ......
