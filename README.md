@@ -21,7 +21,7 @@
             （3）npm i mapbox-gl-draw-rectangle-mode
 
         2、引入： 在需要的模块中引入：
-                 import { DrawModule } from 'draw';
+                 import { DrawModule } from 'mapbox-drawtools';
                  @NgModule({
                     imports: [..., DrawModule],
                     ......
