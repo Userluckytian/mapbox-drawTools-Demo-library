@@ -16,6 +16,7 @@ github 地址：https://github.com/Userluckytian/mapbox-drawTools-Demo-library
             （1）npm i mapbox-gl-draw
             （2）npm i mapbox-gl-draw-circle
             （3）npm i mapbox-gl-draw-rectangle-mode
+            （4）安装本npm：npm i mapbox-drawtools
 
         2、引入： 在需要的模块中引入：
                  import { DrawModule } from 'mapbox-drawtools';

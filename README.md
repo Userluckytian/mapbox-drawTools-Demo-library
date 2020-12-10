@@ -19,7 +19,7 @@
             （1）npm i mapbox-gl-draw
             （2）npm i mapbox-gl-draw-circle
             （3）npm i mapbox-gl-draw-rectangle-mode
-
+    
         2、引入： 在需要的模块中引入：
                  import { DrawModule } from 'mapbox-drawtools';
                  @NgModule({

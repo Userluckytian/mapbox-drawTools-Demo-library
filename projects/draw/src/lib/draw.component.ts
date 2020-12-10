@@ -17,7 +17,7 @@ export class DrawComponent implements OnInit, OnChanges, OnDestroy {
     },
     {
       id: '圆选',
-      mode: 'draw_circle'
+      mode: 'drag_circle'
     },
     {
       id: '多边',
