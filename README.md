@@ -1,3 +1,4 @@
+Angular2项目，未构建成三种语言均通用的组件
 1、cmd命令行先指向projects路径下运行：npm run draw 生成dist目录
 
 
